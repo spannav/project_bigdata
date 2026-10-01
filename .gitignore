@@ -1,2 +1,4 @@
 .venv/
 data/raw/
+data/review_features_2_4.csv
+data/review_features_2_4.pkl
